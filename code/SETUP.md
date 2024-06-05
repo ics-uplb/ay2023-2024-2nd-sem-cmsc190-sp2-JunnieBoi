@@ -1,19 +1,15 @@
 # Development Set-up
 ## Prerequisites
-* interpreter
-* package manager 1
-* test files (file1, file2)
-* Android phone
-* IDE used, etc
+* Jupyter Notebook
+* Google Colab
+* EMBER Dataset
 ## Instructions
-1. Install `interpeter` from link
-2. Run the following command to install other packages:
-```
-interpreter install package_manager
-package_manager -i packages
-```
-3. Run the following command to use the program:
-```
-myprogram file1 file2
-```
-4. A binary file can also be downloaded from this link which can be used by any device.
+1. Run the entirety of SP - Data Preprocessing with Pandas.ipynb. Make sure you have either one of the train_features_x.jsonl. Edit it in the string where file is to be opened.
+
+2. Next, place the selected train_features_x.jsonl file into the Google Drive. Upload both SP - Exploratory Data Analysis.ipynb and SP - Modelling.ipynb into Google Colab
+
+3. Make sure to authenticate Google Drive for both runtimes and make sure you have Google Colab Subscription due to its large size.
+
+4. Run SP - Exploratory Data Analysis.ipynb on Google Colab.
+
+5. Afterwards, Run SP - Modelling.ipynb on Google Colab.

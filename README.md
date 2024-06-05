@@ -1,8 +1,6 @@
-# My Special Problem: An example of CMSC 190 GitHub Repository
-Authors: Juan D. Cruz and Adviser' S. Name
+# The Explainability of a Black-Box Malware Detection Model Using Tabular and NLP-Based Methods
+Authors: Junel Alje B. Isanan and Dr. Rachel Edita O. Roxas
 
-This is the abstract of my special problem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut congue, diam molestie pellentesque feugiat, lorem libero vehicula lorem, eget accumsan magna mi non sem. Aliquam erat volutpat. Aliquam scelerisque sagittis mi sed consequat. Ut vestibulum ullamcorper fermentum. Vivamus eu efficitur nunc, quis tempus libero. Aliquam condimentum posuere sem, vitae auctor purus tempus quis. Aenean laoreet nulla pretium mauris faucibus gravida. Nunc interdum, tortor at tempus egestas, velit eros bibendum dui, a malesuada mi lectus ut ante. Praesent ac turpis gravida, tincidunt tellus vitae, volutpat tortor.
+The exponential surge in malware types, from 100 million in 2012 to 700 million in 2018, poses a significant threat to the cybersecurity sector. While deep learning models have demonstrated impressive accuracy in malware detection and classification, even exceeding 99\% in recent studies, the underlying features driving these predictions remain elusive. This lack of transparency hinders user trust in the models' decisions. To address this, this research explores the use of XAI tools to analyze the inner workings of black-box malware detection models trained on tabular and NLP-based data from the EMBER dataset. By uncovering the influential features in single data points, this study aims to enhance model transparency, foster trust in malware detection predictions, and pave the way for improved detection methods and more effective threat analysis in the ever-evolving landscape of cybersecurity.
 
-Keywords: template, submission, repository, example
-
-Read [How To Document](HOWTO.md) for more details.
+Keywords: AI, malware, data science, malware data science, malware analysis, XAI, explainable AI, cybersecurity, deep learning, MLP, neural network, black-box models
